@@ -1,0 +1,68 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@media screen and (max-width: 420px) {
+
+
+    .menu-img {
+        background-color: #818C2A;
+        height: 80px
+    }
+
+        .menu-img .img {
+            width: 10px;
+        }
+
+    .body {
+        padding-top: 30px;
+    }
+
+    .buttonpouco {
+        position: relative;
+        padding-bottom: 1px;
+        padding-left: 50px
+    }
+
+    .buttonnormal {
+        position: relative;
+        padding-bottom: 1px;
+        padding-left: 50px
+    }
+
+    .buttonmuito {
+        position: relative;
+        padding-bottom: 1px;
+        padding-left: 50px
+    }
+
+    #pouco {
+        width: 260px;
+        height: 36px;
+        border-radius: 7.906px;
+        background-color:#D3D92B;
+        color: #395256;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    #ativo {
+        width: 260px;
+        height: 36px;
+        border-radius: 7.906px;
+        background-color: #D3D92B;
+        color: #395256;
+        font-weight: bold;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    #muito {
+        width: 260px;
+        height: 36px;
+        border-radius: 7.906px;
+        background-color: #D3D92B;
+        color: #395256;
+        font-weight: bold;
+        font-weight: bold;
+        font-size: 18px;
+    }
